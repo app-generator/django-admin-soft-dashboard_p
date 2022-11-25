@@ -1,4 +1,4 @@
 django
 gunicorn
-django-admin-soft-dashboard==1.0.1
+django-admin-soft-dashboard==1.0.4
 

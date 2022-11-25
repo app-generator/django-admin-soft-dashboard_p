@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2022-11-25
+### Changes
+
+- Bump [Soft Theme](https://github.com/app-generator/django-admin-soft-dashboard) version to `1.0.4`
+
 ## [1.0.1] 2022-11-20
 ### Improvements
 
