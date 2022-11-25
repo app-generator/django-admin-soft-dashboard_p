@@ -1,17 +1,11 @@
-# [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard) `playground`
+# [Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard) `playground`
 
 Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Theme: [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard)
-
-<br />
-
-## `Video Presentation`
-
-https://user-images.githubusercontent.com/51070104/201376476-1f1e9e02-70ce-401a-a9b8-0bfa0e2f65da.mp4
+- ✅ Theme: [Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)
 
 <br />
 
@@ -20,8 +14,8 @@ https://user-images.githubusercontent.com/51070104/201376476-1f1e9e02-70ce-401a-
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-admin-argon-dashboard_p.git
-$ cd django-admin-argon-dashboard_p
+$ git clone https://github.com/app-generator/django-admin-soft-dashboard_p.git
+$ cd django-admin-soft-dashboard_p
 ```
 
 <br />
@@ -65,15 +59,15 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-> **Django Admin Theme**: `Edit users`
+> **Soft UI Theme** - `Admin Section` 
 
-![django-admin-argon-users-min](https://user-images.githubusercontent.com/51070104/201162283-90fb0637-687e-4926-ab12-bf409491dac6.jpg)
+![Django Admin Soft (Dark Mode) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209421-c71ebb42-7851-47eb-9942-6054e2010b82.jpg)
 
 <br />
 
-> **Django Admin Theme**: `Dashboard` page
+> **Soft UI Theme** - `SignIN Page` 
 
-![django-admin-argon-dashboard-min](https://user-images.githubusercontent.com/51070104/201162509-80df6786-e595-4fca-a570-45f6a4438c24.jpg) 
+![Django Admin Soft (Login Page) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209441-2182d38f-814e-4123-ad54-7c3b580198fe.jpg) 
 
 <br />
 
